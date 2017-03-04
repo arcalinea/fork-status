@@ -1,6 +1,6 @@
-# Zcash Network Stats
+# Zcash Fork Status
 
-This is a basic Express app for Zcash network data.
+Express app that displays status page with likelihood of Zcash blockchain fork.
 
 From the directory:
 
@@ -8,5 +8,4 @@ From the directory:
 
 `node app.js`
 
-View on localhost:3000
-# Fork Status
+View on localhost:3000 to test locally
