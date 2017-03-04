@@ -1,0 +1,43 @@
+header {
+  height: 60px;
+  width: 100%;
+  display: block;
+  padding: 1em;
+  text-align: center;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  padding-top: 2em;
+}
+.logo{
+  float: left;
+}
+.logo img {
+  height: 60px;
+  width: auto;
+  padding-right: 32px;
+  position: relative;
+  top: -10px;
+}
+
+.fork {
+  text-align: center;
+}
+.status {
+  color: white;
+  border-radius: 10px;
+  padding: 20px 0 10px 0 !important;
+  text-align: center;
+  margin: 2em;
+}
+.no {
+  background-color: green;
+}
+.maybe {
+  background-color: orange;
+}
+.yes {
+  background-color: red;
+}

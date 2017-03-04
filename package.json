@@ -1,0 +1,16 @@
+{
+  "name": "fork-status",
+  "version": "0.0.0",
+  "description": "simple Zcash fork detector page",
+  "main": "app.js",
+  "author": "arcalinea",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "*",
+  },
+  "repository" : {
+   "type" : "git",
+   "url" : "https://github.com/arcalinea/fork-status"
+ }
+}
